@@ -1,0 +1,11 @@
+opencv-python
+numpy
+scikit-learn
+tensorflow
+keras
+librosa
+pyaudio
+matplotlib
+pandas
+joblib
+pickle-mixin
