@@ -8,6 +8,7 @@ Moreover, the same architecture can be used for surveillance too.
 
 Instructions:
 
+* This application requires CMake and C++ Build Tools to be installed on your system as prerequisites for building and running the app.
 * Install and unpack electron inside /UI
 * Open Terminal and run electron using npm start
 * Default logins credentials are:
